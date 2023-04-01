@@ -28,7 +28,7 @@ while numero<0:
     print("No se puede hayar esa raiz chito")
 
     if intentos==2:
-        print("Has hecho muchos intentos vo verga, andate a mimir")
+        print("Has hecho muchos intentos vos, andate a mimir")
         break;
 
     numero=int(input("Introduce un numero: "))

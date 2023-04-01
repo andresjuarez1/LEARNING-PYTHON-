@@ -6,13 +6,13 @@
 # numero_hermanos=int(input("Introduce el numero de hermanos que tienes: "))
 # print(numero_hermanos)
 
-# salario=int(input("Introduce el salario anual de tu gfe: "))
+# salario=int(input("Introduce el salario anual de tu papa: "))
 # print(salario)
 
 # if distancia_escuela>40 and numero_hermanos>2 or salario<=2000:
-#     print("Todo bien pa, tas becado")
+#     print("Todo bien pa, estas becado")
 # else:
-#     print("No tienes derecho a beca pa")
+#     print("No tienes derecho a beca")
 
 print("Carga de materias pa")
 print("Materias optativas: estructura de datos - base de datos - poo")
@@ -23,4 +23,4 @@ materia=opcion.lower() #esto es para convertir todo lo ingresado a minusculas y 
 if materia in ("estructura de datos ", "base de datos", "poo"):
     print("Materia escogida: "  + materia)
 else:
-    print("La materia no existe wey")
+    print("La materia no existe")

@@ -21,4 +21,4 @@ if salario_administrativo<salario_jefe_area<salario_director<salario_presidente:
     print("Todo en orden pa")
     print(str (salario_administrativo) + " " +  str(salario_director) + " " + str(salario_jefe_area) + " " + str(salario_presidente))
 else:
-    print("No sabes pagar pa, vuelve a hacer TODO BIEN")
+    print("No sabes pagar, vuelve a hacer TODO BIEN")

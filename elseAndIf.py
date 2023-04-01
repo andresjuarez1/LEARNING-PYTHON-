@@ -15,7 +15,7 @@ print("Verificacion de accesso")
 nota_alumno=int(input("Introduce tu nota, por favor: "))
 
 if nota_alumno<5:
-    print("Reprobaste pa")
+    print("Reprobaste")
 
 elif nota_alumno<6:
     print("pansaste")
@@ -27,4 +27,4 @@ elif nota_alumno<9:
     print("Q joya")
 
 else:
-    print("Sos la pija bro")
+    print("Eres muy bueno bro")
